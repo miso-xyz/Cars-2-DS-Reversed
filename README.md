@@ -21,6 +21,7 @@ Original Filetypes | Now
 *.nsc | *.NCSC
 *.p | *.NCLR
 *.s | *.NSCR
+*.str | * + "_unicodeStringFile.txt"
 
 ## Tools Used ##
 Tools | Author(s)
