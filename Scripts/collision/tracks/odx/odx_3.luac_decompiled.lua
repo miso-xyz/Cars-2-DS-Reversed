@@ -1,0 +1,21 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1
+L0_1 = {}
+L1_1 = {}
+L1_1.name = "odx_3"
+L1_1.type = "trimesh"
+L2_1 = true
+L1_1.active = L2_1
+L2_1 = {}
+L2_1.name = "gate1"
+L2_1.type = "trimesh"
+L3_1 = true
+L2_1.active = L3_1
+L3_1 = {}
+L3_1.name = "gate2"
+L3_1.type = "trimesh"
+L4_1 = true
+L3_1.active = L4_1
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+collision = L0_1
