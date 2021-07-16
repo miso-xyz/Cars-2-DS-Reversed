@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = {}
+L1_1 = {}
+L1_1.TopSpeed = 4096
+L1_1.Acceleration = 4096
+L1_1.Cornering = 4096
+L0_1.Normal = L1_1
+L1_1 = {}
+L1_1.TopSpeed = 4915
+L1_1.Acceleration = 4915
+L1_1.Cornering = 4915
+L0_1.Hard = L1_1
+Difficulty = L0_1

@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1
+L0_1 = {}
+L1_1 = {}
+L2_1 = 4096 * 245760
+L1_1.PlatinumTime = L2_1
+L2_1 = 6144 * 245760
+L1_1.GoldTime = L2_1
+L2_1 = 8192 * 245760
+L1_1.SilverTime = L2_1
+L2_1 = 10240 * 245760
+L1_1.BronzeTime = L2_1
+L0_1.pyx_hunt = L1_1
+L1_1 = {}
+L2_1 = 4096 * 245760
+L1_1.PlatinumTime = L2_1
+L2_1 = 6144 * 245760
+L1_1.GoldTime = L2_1
+L2_1 = 8192 * 245760
+L1_1.SilverTime = L2_1
+L2_1 = 10240 * 245760
+L1_1.BronzeTime = L2_1
+L0_1.cnx_hunt = L1_1
+scavengerHuntScoring = L0_1
