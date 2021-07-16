@@ -7,11 +7,11 @@ For some simple notes about the game, please go to https://github.com/miso-xyz/n
 
 ## Jobs Done ##
 * Fixed File Extension "Obfuscation"
-* Code Decompilation
+* Lua Code Decompilation for `*.luac & *.dcsc` files
 
 ## File Extension "Obfuscation" ##
 
-Original Filetype | Now
+Original Filetypes | Now
 ------------- | -------------
 *.c | *.NCGR
 *.dcsc | *.luac (not renamed, is decompiled)
