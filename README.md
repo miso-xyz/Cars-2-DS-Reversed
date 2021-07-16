@@ -2,7 +2,7 @@
 ## Information on ROM used ##
 <pre>
 Cars 2 (Multi-Lingual), NDSi Enhanced, Dumped from cartridge using <a href="https://github.com/d0k3/GodMode9/">GodMode9</a>
-For some simple notes about the game, please go to https://github.com/miso-xyz/nds-notes/.
+For some simple notes about the game, please go to <a href="https://github.com/miso-xyz/nds-notes/">nds-notes</a>.
 </pre>
 
 ## Jobs Done ##
