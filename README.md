@@ -26,7 +26,7 @@ Original Filetypes | Now
 ## Tools Used ##
 Tools | Author(s) | Usage
 ------------- | ------------- | -------------
-<a href="https://www.7-zip.org/">7-Zip | Igor Pavlov | File Extraction</a>
+<a href="https://www.7-zip.org/">7-Zip | Igor Pavlov | File Unpacking</a>
 <a href="https://github.com/d0k3/GodMode9/">GodMode9</a> | <a href="https://github.com/d0k3">d0k3</a> | ROM Dump
 <a href="https://mh-nexus.de/en/hxd/">HxD | <a href="https://mh-nexus.de/en/">mh-nexus</a> | Hex Editing
 <a href="http://www.winhex.com/winhex/">WinHex</a> | <a href="https://www.x-ways.net/">X-Ways</a> | Hex Editing
